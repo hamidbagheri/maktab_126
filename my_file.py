@@ -5,3 +5,6 @@ print("salam")
 
 def sum_numbers(a,b):
     return a+b
+
+def b(c,d):
+    return c+d
